@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### About Me
-
+👩🏻‍💻 FrontEnd Engineer at [Spenmo](https://spenmo.com/)
 💬 Ask me about anything [here](https://github.com/sushmitha-k/sushmitha-k/issues).
 
 <!--
