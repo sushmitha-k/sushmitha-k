@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### About Me
-- 👩🏻‍💻 FrontEnd Engineer at [Summit](https://summitglobal.com/)
+- 👩🏻‍💻 Senior FrontEnd Engineer at [Summit](https://summitglobal.com/)
 - 💬 Ask me about anything [here](https://github.com/sushmitha-k/sushmitha-k/issues).
 
 <!--
