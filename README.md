@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white"/>
 </p>
 
-#### 🔗 𝙻𝚎𝚝'𝚜 𝙲𝚘𝚗𝚗𝚎𝚌𝚝
+#### 𝙻𝚎𝚝'𝚜 𝙲𝚘𝚗𝚗𝚎𝚌𝚝
 
 <p>
   <a href="https://www.linkedin.com/in/sushmitha-konem-993544143" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
