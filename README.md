@@ -22,6 +22,7 @@
 
 **𝙻𝚒𝚋𝚛a𝚛𝚒𝚎𝚜 & 𝚃𝚘𝚘𝚕𝚜:**
 <p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=d3.js&logoColor=black"/>
   <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white"/>
